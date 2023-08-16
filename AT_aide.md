@@ -1,3 +1,6 @@
+https://docs.docker.com/engine/reference/commandline/ps/
+ docker restart my_container
+docker ps --all
 docker build .
 docker-compose up
 docker-compose run --rm app sh -c "flake8"
