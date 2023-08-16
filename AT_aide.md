@@ -6,4 +6,7 @@ docker-compose run --rm app sh -c "python manage.py test"
 git add .
 git commit -am "le 16/08/2023 après correction du gethub sécurity ."
 git log
-git push origin
+git push origin 
+git branch
+git checkout "nom brance"
+git branch " nom branche"
