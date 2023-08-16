@@ -10,3 +10,5 @@ git push origin
 git branch
 git checkout "nom de la  brance"
 git branch " nom branche"
+docker login -u athabti
+docker login -u athabti -p dckr_pat_A3UO7w8lg7bW-W1OkBdQHkdWOZs
